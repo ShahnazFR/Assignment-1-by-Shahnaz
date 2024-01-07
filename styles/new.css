@@ -1,0 +1,44 @@
+body {
+  font-family: Merriweather;
+}
+
+.start {
+  position: relative;
+  width: 1320px;
+  height: 600px;
+  padding: 50px 140px 150px 140px;
+  overflow: hidden;
+}
+
+.banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1320px;
+  height: 600px;
+  background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
+    url("../resources/Banner\ Image.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 16px;
+  margin: 50px 140px 150px 140px;
+  background-repeat: no-repeat;
+}
+
+.banner-title-style {
+  text-align: center;
+  display: block;
+  color: #fff;
+}
+
+.banner-wish {
+  margin: 177px 530px 5px;
+  font-size: 32px;
+  font-weight: 400;
+}
+.banner-celebration {
+  width: 632px;
+  font-size: 72px;
+  font-weight: 900;
+  margin: 18px 344px 177px;
+}
