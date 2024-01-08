@@ -1,7 +1,9 @@
+/* Body styles Starts here */
 body {
   font-family: Merriweather;
 }
 
+/* Banner related styles */
 .start {
   position: relative;
   width: 1320px;
@@ -41,4 +43,41 @@ body {
   font-size: 72px;
   font-weight: 900;
   margin: 18px 344px 177px;
+}
+
+/* Main section styles starts here! */
+.categories {
+  width: 1600px;
+  height: 7335px;
+  text-align: center;
+  display: block;
+  font-family: Inter;
+  background: #fff;
+}
+
+.same-color {
+  color: #f00;
+}
+
+.off {
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+
+.holiday {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.all-categories{
+  margin-top: 16px;
+  color: #070211;
+font-size: 48px;
+font-weight: 700;
+}
+.new-year-photo{
+  width: 802.9px;
+height: 500px;
 }
