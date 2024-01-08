@@ -47,8 +47,8 @@ body {
 
 /* Main section styles starts here! */
 .categories {
-  width: 1600px;
-  height: 7335px;
+  /* width: 1600px;
+  height: 7335px; */
   text-align: center;
   display: block;
   font-family: Inter;
@@ -77,7 +77,7 @@ body {
 font-size: 48px;
 font-weight: 700;
 }
-.new-year-photo{
+/* .new-year-photo{
   width: 802.9px;
 height: 500px;
-}
+} */
