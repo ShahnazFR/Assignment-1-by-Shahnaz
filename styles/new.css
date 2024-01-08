@@ -26,7 +26,6 @@ body {
   border-radius: 16px;
   margin: 50px 140px 150px 190px;
   background-repeat: no-repeat;
-  /* margin: 0 auto; */
 }
 
 .banner-title-style {
@@ -49,8 +48,6 @@ body {
 
 /* Main section styles starts here! */
 .categories {
-  /* width: 1600px;
-  height: 7335px; */
   text-align: center;
   display: block;
   font-family: Inter;
@@ -80,36 +77,25 @@ body {
 font-size: 48px;
 font-weight: 700;
 }
-/* .new-year-photo{
-  width: 802.9px;
-height: 500px;
-} */
+
 
 
 /* Party section styles starts here */
 .party{
   display: flex;
-   /* position: relative;  */
-   /* justify-content: center; */
         width: 1320px;
        height: 600px;
-       /* padding: 150px 150px ;  */
-       /* padding: 50px 140px 150px 150px; */
-      /* overflow: hidden; */
       background: linear-gradient(to right, rgba(0, 0, 0, .99), rgba(0, 0, 0, 0)), url('../resources/Vectorrr.png');
       
   background-size: cover;
-  /* background-position: 50% 50%; */
+
   background-position: 100%;
   border-radius: 16px;
-  /* margin: 50px 200px 150px 140px; */
   background-repeat: no-repeat;
   margin-left: 200px;
-  /* margin: 0 auto; */
   margin-bottom: 150px;
 }
 .midnight-party{
-  /* background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)), url('../resources/Vectorrr.png'); */
   
 }
 
