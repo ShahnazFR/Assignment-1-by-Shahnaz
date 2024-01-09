@@ -177,3 +177,79 @@ body {
 .hey {
   margin-right: 24px;
 }
+
+/* Subscribe section styles starts here */
+.subscribe {
+  width: 1320px;
+  height: 616px;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  margin: 0 auto;
+  margin-left: 200px;
+  margin-bottom: 120px;
+}
+
+.news-letter {
+  display: block;
+  margin-left: 100px;
+  }
+.pic-subscribe {
+  width: 150px;
+  height: 150px;
+  flex-shrink: 0;
+  padding: 80px 585px 0px 485px;
+}
+
+.subscribe-heading{
+  color: #070211;
+text-align: center;
+font-size: 48px;
+font-weight: 900;
+padding: 7px 404px 0px 304px;
+}
+
+.subscribe-details{
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+padding: 0px 212px 15px 112px;
+}
+form{
+
+  display: flex;
+  margin-left: 226px;
+  margin-bottom: 80px;
+}
+.mix-btn{
+background: #FFF;
+border: none;
+}
+input[type="email"]{
+
+  border-radius: 50px 0 0 50px;
+  width: 448px;
+  height: 70px;
+  color: rgba(7, 2, 17, 0.30);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 30px;
+  
+}
+
+
+.sub{
+  height: 72px;
+  border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 200px;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
+
