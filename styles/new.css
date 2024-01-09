@@ -358,3 +358,51 @@ hr {
   margin-top: 45px;
   margin-right: 140px;
 }
+
+/* Place section styles starts here */
+
+.place{
+  width: 1320px;
+height: 482px;
+background: linear-gradient(rgba(255, 0, 0, 0.10),rgba(255, 0, 0, 0.00));
+border-radius: 16px;
+margin-left: 200px;
+  margin-bottom: 120px;
+
+}
+
+.one{
+
+  padding: 120px 350px 0px 320px ;
+
+
+    
+}
+
+.dap{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.pdt-heading{
+color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+}
+
+.place-btn{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+padding: 16px 32px;
+margin-left: 576px;
+margin-top: 48px;
+border-radius: 8px;
+background: #F00;
+border: none;
+}
