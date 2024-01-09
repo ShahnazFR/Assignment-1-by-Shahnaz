@@ -47,6 +47,10 @@ body {
 }
 
 /* Main section styles starts here! */
+.category{
+  margin-left: 200px;
+  /* margin-top: 0px; */
+}
 .categories {
   text-align: center;
   display: block;
@@ -63,6 +67,7 @@ body {
   font-size: 88px;
   font-weight: 700;
   margin-bottom: 48px;
+  margin-top: 0px;
 }
 
 .holiday {
